@@ -1,7 +1,0 @@
-inns: 17derya17@
-17ocean7@  "oceeanangel" 
-celery -A Service worker --pool=solo --loglevel=info 
-celery -A Service worker --pool=threads --loglevel=info 
-
-
-
